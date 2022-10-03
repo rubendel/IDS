@@ -49,6 +49,7 @@ A full list of IFC Defined types can be found in the IFC documentation. For exam
 | IfcSpecificHeatCapacityMeasure       | Specific heat capacity        |              | J/Kg K      | (2, 0, -2, 0, -1, 0, 0) | quantitykind:SpecificHeatCapacity     |
 | IfcTemperatureRateOfChangeMeasure    | Temperature rate of change    |              | K/s         | (0, 0, -1, 0, 1, 0, 0)  | quantitykind:TemperaturePerTime       |
 | IfcThermalConductivityMeasure        | Thermal conductivity          |              | W/m K       | (1, 1, -3, 0, -1, 0, 0) | quantitykind:ThermalConductivity      |
+| IfcThermalTransmittanceMeasure       | Thermal transmittance         |              | MJ/m2       |                         | quantitykind:ThermalTransmittance     |
 | IfcThermodynamicTemperatureMeasure   | Temperature                   | kelvin       | K           | (0, 0, 0, 0, 1, 0, 0)   | quantitykind:ThermodynamicTemperature |
 | IfcTimeMeasure                       | Time                          | second       | s           | (0, 0, 1, 0, 0, 0, 0)   | quantitykind:Time                     |
 | IfcTorqueMeasure                     | Torque                        |              | N m         | (2, 1, -2, 0, 0, 0, 0)  | quantitykind:Torque                   |
